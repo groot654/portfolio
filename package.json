@@ -9,7 +9,11 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "next": "16.2.7",
+    "@next/font": "^14.2.15",
+    "cobe": "^0.6.3",
+    "framer-motion": "^12.40.0",
+    "lucide-react": "^1.17.0",
+    "next": "^16.2.7",
     "react": "19.2.4",
     "react-dom": "19.2.4"
   },
@@ -20,6 +24,7 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.2.7",
+    "playwright": "^1.60.0",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
